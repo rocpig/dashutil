@@ -1,5 +1,5 @@
-btcutil
-=======
+dashutil
+========
 
 [![Build Status](http://img.shields.io/travis/btcsuite/btcutil.svg)](https://travis-ci.org/btcsuite/btcutil)
 [![Coverage Status](http://img.shields.io/coveralls/btcsuite/btcutil.svg)](https://coveralls.io/r/btcsuite/btcutil?branch=master)
@@ -21,7 +21,7 @@ provided.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/btcsuite/btcutil
+$ go get -u github.com/rocpig/dashutil
 ```
 
 ## GPG Verification Key
