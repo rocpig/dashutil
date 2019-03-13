@@ -1,14 +1,14 @@
-// Copyright (c) 2013, 2014 The btcsuite developers
+// Copyright (c) 2013, 2014 The rocpig developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
-package btcutil_test
+package dashutil_test
 
 import (
 	"math"
 	"testing"
 
-	. "github.com/btcsuite/btcutil"
+	. "github.com/rocpig/dashutil"
 )
 
 func TestAmountCreation(t *testing.T) {

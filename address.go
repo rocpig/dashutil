@@ -1,8 +1,8 @@
-// Copyright (c) 2013-2017 The btcsuite developers
+// Copyright (c) 2013-2017 The rocpig developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
-package btcutil
+package dashutil
 
 import (
 	"bytes"
@@ -11,10 +11,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/btcsuite/btcd/btcec"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcutil/base58"
-	"github.com/btcsuite/btcutil/bech32"
+	"github.com/rocpig/dash/btcec"
+	"github.com/rocpig/dash/chaincfg"
+	"github.com/rocpig/dashutil/base58"
+	"github.com/rocpig/dashutil/bech32"
 	"golang.org/x/crypto/ripemd160"
 )
 

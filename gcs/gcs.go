@@ -1,4 +1,4 @@
-// Copyright (c) 2016-2017 The btcsuite developers
+// Copyright (c) 2016-2017 The rocpig developers
 // Copyright (c) 2016-2017 The Lightning Network Developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
@@ -12,7 +12,7 @@ import (
 	"sort"
 
 	"github.com/aead/siphash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/rocpig/dash/wire"
 	"github.com/kkdai/bstream"
 )
 
